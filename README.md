@@ -20,7 +20,7 @@ The **Weather App** is a Flutter-based mobile application that provides real-tim
 
 ## 📦 Installation
 
-Follow these steps to get started with the Corona Tracker App:
+Follow these steps to get started with the Weather App:
 
 1. **Clone the repository**:
    https://github.com/huzaifaAhmad9/Weather-App-Flutter.git
